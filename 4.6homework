@@ -66,3 +66,52 @@ output: html_document
 4924-4949	https://ggplot2-book.org/
   4949-4959	 | Welcome
 4970-4993	https://r-graphics.org/
+
+
+#name of book
+49-90	Easily Harvest (Scrape) Web Pages • rvest
+125-165	A Forward-Pipe Operator for R • magrittr
+196-231	The Comprehensive R Archive Network
+265-331	Simple, Consistent Wrappers for Common String Operations • stringr
+370-401	14 Strings | R for Data Science
+459-509	Tutorial: Web Scraping in R with rvest – Dataquest
+592-648	Practical Introduction to Web Scraping in R | R-bloggers
+688-722	Web Scraping in R | Applied R Code
+844-908	Beginner’s Guide on Web Scraping in R (using rvest) with example
+1001-1090	Tidy web scraping in R — Tutorial and resources | by Keith McNulty | Towards Data Science
+1361-1394	web scraping in r - Google Search
+1482-1575	Text Mining is Fun (with R)!. I am a big fan of Julia Silge and David… | by Susan Li | Medium
+1623-1666	1 The tidy text format | Text Mining with R
+1784-1849	Text Mining and Sentiment Analysis: Analysis with R - Simple Talk
+1941-1982	Basics of Text Mining in R - Bag of Words
+2075-2131	Text Analytics and Predictions with R Essential Training
+2275-2310	text analytics in r - Google Search
+2361-2408	ziishaned/learn-regex: Learn regex the easy way
+2540-2585	Regular%20expressions%20quick%20reference.pdf
+2620-2658	regex101: build, test, and debug regex
+2717-2729	Introduction
+2770-2777	Gallery
+2808-2843	The Comprehensive R Archive Network
+2922-2946	rmarkdown-cheatsheet.pdf
+2985-3020	Dynamic Documents for R • rmarkdown
+3061-3093	R Markdown: The Definitive Guide
+3143-3162	R Markdown Cookbook
+3198-3253	Options - Chunk options and package options - Yihui Xie
+3278-3293	Home | Bookdown
+3372-3393	CRAN - Package tables
+3453-3507	10.1 The function knitr::kable() | R Markdown Cookbook
+3598-3656	Create Awesome HTML Table with knitr::kable and kableExtra
+3749-3768	KableExtra Tutorial
+3837-3895	Create Awesome HTML Table with knitr::kable and kableExtra
+3973-4004	Use kableExtra with formattable
+4044-4079	The Comprehensive R Archive Network
+4131-4190	Data visualization with R and ggplot2 | the R Graph Gallery
+4224-4298	Create Elegant Data Visualisations Using the Grammar of Graphics • ggplot2
+4376-4442	Top 50 ggplot2 Visualizations - The Master List (With Full R Code)
+4489-4532	https://exts.ggplot2.tidyverse.org/gallery/
+4588-4637	ggplot2 - Essentials - Easy Guides - Wiki - STHDA
+4686-4734	Chapter 8 ggplot2 | Introduction to Data Science
+4784-4825	3 Data visualisation | R for Data Science
+4875-4923	30 ggplot basics | The Epidemiologist R Handbook
+4952-4969	Welcome | ggplot2
+4996-5028	R Graphics Cookbook, 2nd edition
