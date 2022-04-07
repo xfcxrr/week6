@@ -1,0 +1,68 @@
+---
+title: "4.6homework"
+author: "Chenlei"
+date: "2022/4/7"
+output: html_document
+---
+
+18-46	https://rvest.tidyverse.org/
+  91-122	https://magrittr.tidyverse.org/
+  166-193	https://cran.r-project.org/
+  232-262	https://stringr.tidyverse.org/
+  332-367	https://r4ds.had.co.nz/strings.html
+367-380	 | 14 Strings
+402-456	https://www.dataquest.io/blog/web-scraping-in-r-rvest/
+  510-589	https://www.r-bloggers.com/2019/04/practical-introduction-to-web-scraping-in-r/
+  589-635	 | Practical Introduction to Web Scraping in R
+649-685	http://applied-r.com/web-scrapping/#
+  685-705	 | Web Scraping in R
+723-841	https://www.analyticsvidhya.com/blog/2017/03/beginners-guide-on-web-scraping-in-r-using-rvest-with-h...
+909-998	https://towardsdatascience.com/tidy-web-scraping-in-r-tutorial-and-resources-ac9f72b4fe47
+998-1048	 | Tidy web scraping in R — Tutorial and resources
+1048-1067	 | by Keith McNulty
+1091-1358	https://www.google.com/search?q=web+scraping+in+r&rlz=1C1SQJL_enUS903US903&sxsrf=APq-WBuxfppHjZ44a7Y...
+1411-1479	https://actsusanli.medium.com/text-mining-is-fun-with-r-35e537b12002
+1479-1552	 | Text Mining is Fun (with R)!. I am a big fan of Julia Silge and David…
+1552-1566	 | by Susan Li
+1576-1620	https://www.tidytextmining.com/tidytext.html
+1620-1645	 | 1 The tidy text format
+1667-1781	https://www.red-gate.com/simple-talk/databases/sql-server/bi-sql-server/text-mining-and-sentiment-an...
+1850-1938	http://rstudio-pubs-static.s3.amazonaws.com/256588_57b585da6c054349825cba46685d8464.html
+1983-2072	https://rstudio-pubs-static.s3.amazonaws.com/588350_44eaace5507a45d2944549944559da1f.html
+2132-2272	https://www.google.com/search?q=text+analytics+in+r&rlz=1C1SQJL_enUS903US903&oq=&aqs=chrome.0.35i39i...
+2318-2358	https://github.com/ziishaned/learn-regex
+2409-2537	https://download.microsoft.com/download/D/2/4/D240EBF6-A9BA-4E4F-A63F-AEB6DA0B921C/Regular%20express...
+2586-2617	https://regex101.com/r/xc9GkU/1
+2671-2714	https://rmarkdown.rstudio.com/lesson-1.html
+2730-2767	https://rmarkdown.rstudio.com/gallery
+2778-2805	https://cran.r-project.org/
+  2844-2919	https://www.rstudio.com/wp-content/uploads/2015/02/rmarkdown-cheatsheet.pdf
+2947-2982	https://rmarkdown.rstudio.com/docs/
+  3021-3058	https://bookdown.org/yihui/rmarkdown/
+  3094-3140	https://bookdown.org/yihui/rmarkdown-cookbook/
+  3163-3195	https://yihui.org/knitr/options/
+  3254-3275	https://bookdown.org/
+  3275-3282	 | Home
+3312-3369	https://cran.r-project.org/web/packages/tables/index.html
+3394-3450	https://bookdown.org/yihui/rmarkdown-cookbook/kable.html
+3450-3485	 | 10.1 The function knitr::kable()
+3508-3595	https://haozhu233.github.io/kableExtra/awesome_table_in_html.html#grouped_columns__rows
+3657-3746	https://rstudio-pubs-static.s3.amazonaws.com/444395_76727eaf9c774fa8bf932bed16500a00.html
+3769-3834	https://haozhu233.github.io/kableExtra/awesome_table_in_html.html
+3896-3970	http://haozhu233.github.io/kableExtra/use_kableExtra_with_formattable.html
+4014-4041	https://cran.r-project.org/
+  4080-4128	https://r-graph-gallery.com/ggplot2-package.html
+4128-4168	 | Data visualization with R and ggplot2
+4191-4221	https://ggplot2.tidyverse.org/
+  4299-4373	http://r-statistics.co/Top50-Ggplot2-Visualizations-MasterList-R-Code.html
+4443-4486	https://exts.ggplot2.tidyverse.org/gallery/
+  4533-4585	http://www.sthda.com/english/wiki/ggplot2-essentials
+4638-4683	https://rafalab.github.io/dsbook/ggplot2.html
+4683-4703	 | Chapter 8 ggplot2
+4735-4781	https://r4ds.had.co.nz/data-visualisation.html
+4781-4804	 | 3 Data visualisation
+4826-4872	https://epirhandbook.com/en/ggplot-basics.html
+4872-4891	 | 30 ggplot basics
+4924-4949	https://ggplot2-book.org/
+  4949-4959	 | Welcome
+4970-4993	https://r-graphics.org/
